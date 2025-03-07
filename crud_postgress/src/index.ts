@@ -25,16 +25,3 @@ serve({
 
 
 
-
-
-// import { serve } from '@hono/node-server'
-// import { Hono } from 'hono'
-// import dotenv from 'dotenv'
-// import itemsRouter from './routes/items.js';
-
-// dotenv.config();
-// const app = new Hono();
-// app.route('/items', itemsRouter);
-
-
-
